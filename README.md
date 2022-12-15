@@ -1,7 +1,7 @@
 <h2 align="center">Hey! I'm Calvin Fernandes</h1>
 <h3 align="center">A passionate coder from Mangalore, India</h3>
 
-- 🌱 I’m currently learning **Data structures and Algorithm analysis**, nad exploring the field of **Machiene Learning**
+- 🌱 I’m currently learning **Data structures and Algorithm analysis**, and exploring the field of **Machiene Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
